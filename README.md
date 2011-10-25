@@ -6,6 +6,17 @@ see yourself on the shiny, reflective screen of most handhelds. Reflect has many
 features and open source code.
 
 
+Features
+--------
+
+* Animations that black out the screen.
+* Preferences that are saved between sessions.
+* Monochrome, greyscale, color, and hi-res support.
+* Infrared beaming from within the application.
+* Runs on Palm OS¨ 3.0 or greater.
+* Free, open source software.
+
+
 Download
 --------
 
@@ -14,6 +25,15 @@ Download
 
 [zip]: https://github.com/jbarker/reflect-palmos/zipball/master
 [tar]: https://github.com/jbarker/reflect-palmos/tarball/master
+
+
+Running
+-------
+
+Load the release file -- Reflect.prc -- onto your Palm OS device. You may use
+any supported file transfer method, such as USB or Bluetooth, offered by your
+operating system or application software like Palm Desktop, HotSync Manager,
+or Install Tool.
 
 
 Requirements
