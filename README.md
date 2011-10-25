@@ -13,7 +13,7 @@ Features
 * Preferences that are saved between sessions.
 * Monochrome, greyscale, color, and hi-res support.
 * Infrared beaming from within the application.
-* Runs on Palm OS¨ 3.0 or greater.
+* Runs on Palm OS 3.0 or greater.
 * Free, open source software.
 
 
